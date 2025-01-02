@@ -5,7 +5,7 @@
 
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ {},ɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ʙᴏᴛ. ɪ ᴡɪʟʟ ɢɪᴠᴇ ᴍᴏᴠɪᴇs ᴏʀ sᴇʀɪᴇs  !! 😍
-🧑‍💻 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : YnvMovies 🤞 (https://t.me/ynvmoviesupdates)
+🧑‍💻 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : YnvMovies 🤞 
 </b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
