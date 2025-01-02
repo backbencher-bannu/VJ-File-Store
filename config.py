@@ -22,7 +22,7 @@ API_ID = int(environ.get("API_ID", "26339634"))
 API_HASH = environ.get("API_HASH", "e0318ca1a4652f9348844203de8f491b")
 BOT_TOKEN = environ.get("BOT_TOKEN", "7361998653:AAEpt3jH-FpJMJR7ILSeem7mH4SgIr9k8uA")
 
-PICS = (environ.get('PICS', 'https://graph.org/file/ce1723991756e48c35aa1.jpg')).split() # Bot Start Picture
+PICS = (environ.get('PICS', 'https://github.com/backbencher-bannu/pics/blob/main/logo-no-background.png')).split() # Bot Start Picture
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1989461858').split()]
 BOT_USERNAME = environ.get("BOT_USERNAME", " ynvmoviesbot") # without @
 PORT = environ.get("PORT", "8080")
